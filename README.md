@@ -1,0 +1,12 @@
+# alcohol_misuse
+
+The zip file includes a Vensim file along with two data files. 
+
+The Vensim file includes four views: Main view, treatment, model analysis, and optimization setup.
+
+To run the model, the two data files should be in the same folder (directory) as the model file:
+  Estimated parameters through calibration are called from file 'Estimated_parameters_through_calibration.out'
+  External data (historical data) are called from file 'External_data.vdfx'
+  
+  
+  Online model interface is available here: https://mj-lab.mgh.harvard.edu/alcohol-misuse-model
